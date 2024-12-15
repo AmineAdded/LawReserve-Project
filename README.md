@@ -1,3 +1,25 @@
+# LawReserve-Project
+## Project setup
+```
+npm install
+```
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+### Compiles and minifies for production
+```
+npm run build
+```
+### Lints and fixes files
+```
+npm run lint
+```
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# Project content
 ![Capture d'écran 2024-12-14 192552](https://github.com/user-attachments/assets/4c5df3d4-cf13-4e30-8b7a-84b9e58d8dcb)
 ![Capture d'écran 2024-12-14 193248](https://github.com/user-attachments/assets/1c652806-24a3-4ef0-8586-aedfa68423b4)
 ![Capture d'écran 2024-12-14 193221](https://github.com/user-attachments/assets/7559fc86-b6d0-4c86-b875-3893383a1c64)
